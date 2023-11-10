@@ -1,0 +1,10 @@
+# Arquivos e diretórios a serem ignorados
+env
+/previsoes
+.venv
+.vscode
+__pycache__
+dados_treino.xlsx
+.exe
+.spec
+/build
