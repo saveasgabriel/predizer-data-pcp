@@ -5,6 +5,6 @@ env
 .vscode
 __pycache__
 dados_treino.xlsx
-.exe
-.spec
+setup.exe
+setup.spec
 /build
